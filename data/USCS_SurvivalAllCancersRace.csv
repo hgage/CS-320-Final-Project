@@ -1,0 +1,58 @@
+CancerType,Race,Sex,5-yearRelativeSurvival%
+All Cancer Sites Combined,White,Male and Female,66.4
+Brain and Other Nervous System,White,Male and Female,31.5
+Colon and Rectum,White,Male and Female,64.2
+Esophagus,White,Male and Female,19.6
+Hodgkin Lymphoma,White,Male and Female,83.6
+Kidney and Renal Pelvis,White,Male and Female,71.7
+Larynx,White,Male and Female,60.2
+Leukemias,White,Male and Female,55.6
+Liver and Intrahepatic Bile Duct,White,Male and Female,16.8
+Lung and Bronchus,White,Male and Female,19.3
+Male and Female Breast,White,Male and Female,90
+Melanomas of the Skin,White,Male and Female,89.2
+Myeloma,White,Male and Female,45.8
+Non-Hodgkin Lymphoma,White,Male and Female,68.7
+Oral Cavity and Pharynx,White,Male and Female,62.2
+Pancreas,White,Male and Female,8.9
+Stomach,White,Male and Female,28.9
+Thyroid,White,Male and Female,97
+Urinary Bladder,White,Male and Female,75.7
+All Cancer Sites Combined,Black,Male and Female,61.1
+Brain and Other Nervous System,Black,Male and Female,39.1
+Colon and Rectum,Black,Male and Female,58
+Esophagus,Black,Male and Female,12
+Hodgkin Lymphoma,Black,Male and Female,82
+Kidney and Renal Pelvis,Black,Male and Female,71.6
+Larynx,Black,Male and Female,51.7
+Leukemias,Black,Male and Female,50.7
+Liver and Intrahepatic Bile Duct,Black,Male and Female,15.6
+Lung and Bronchus,Black,Male and Female,16.7
+Male and Female Breast,Black,Male and Female,80
+Melanomas of the Skin,Black,Male and Female,66.9
+Myeloma,Black,Male and Female,48.9
+Non-Hodgkin Lymphoma,Black,Male and Female,63.2
+Oral Cavity and Pharynx,Black,Male and Female,45.2
+Pancreas,Black,Male and Female,9.2
+Stomach,Black,Male and Female,30.4
+Thyroid,Black,Male and Female,95.5
+Urinary Bladder,Black,Male and Female,63.5
+All Cancer Sites Combined,Other,Male and Female,65.5
+Brain and Other Nervous System,Other,Male and Female,44.3
+Colon and Rectum,Other,Male and Female,66.4
+Esophagus,Other,Male and Female,22.6
+Hodgkin Lymphoma,Other,Male and Female,86.1
+Kidney and Renal Pelvis,Other,Male and Female,70.6
+Larynx,Other,Male and Female,62.2
+Leukemias,Other,Male and Female,54.1
+Liver and Intrahepatic Bile Duct,Other,Male and Female,26.5
+Lung and Bronchus,Other,Male and Female,23.5
+Male and Female Breast,Other,Male and Female,90.3
+Melanomas of the Skin,Other,Male and Female,78.9
+Myeloma,Other,Male and Female,49.4
+Non-Hodgkin Lymphoma,Other,Male and Female,66.2
+Oral Cavity and Pharynx,Other,Male and Female,65.8
+Pancreas,Other,Male and Female,13.5
+Stomach,Other,Male and Female,39
+Thyroid,Other,Male and Female,96.8
+Urinary Bladder,Other,Male and Female,74.5
